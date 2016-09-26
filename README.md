@@ -15,3 +15,7 @@ https://community.hortonworks.com/articles/58477/setup-sap-vora-using-eclipse-ha
 
 Part 4:
 https://community.hortonworks.com/articles/58502/perform-data-analysis-using-sap-vora-on-sap-hana-d.html
+
+ZEPPELIN NOTEBOOK PREVIEW:
+https://www.zeppelinhub.com/viewer/notebooks/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3plbHRvdmhvcnRvbi9zYXBfdm9yYV9oZHBfZGVtby9tYXN0ZXIvaGFuYV9pbnRyby5qc29u
+
